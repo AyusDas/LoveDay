@@ -1,2 +1,2 @@
 # LoveDay
-just for fun...
+a dating site
